@@ -1,0 +1,13 @@
+{
+  "Name": "Level 1",
+  "Entities": {
+    "wall"    : "#",
+    "player"  : "p",
+    "air"    : "~",
+    "goal"     : "g"
+  },
+  "Settings": {
+    "scroll"    : false,
+    "filename"  : "../levels/level1.txt"
+  }
+}

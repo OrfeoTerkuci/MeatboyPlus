@@ -1,0 +1,13 @@
+{
+  "Name": "Level 0 : Prison",
+  "Entities": {
+    "wall"    : "#",
+    "player"  : "p",
+    "air"    : "~",
+    "goal"     : "g"
+  },
+  "Settings": {
+    "scroll"    : false,
+    "filename"  : "../levels/level0.txt"
+  }
+}
